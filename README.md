@@ -32,7 +32,7 @@ Measure the model’s performance on the test data with relevant metrics.
 ```
 /*
 Program to  implement a Decision Tree model for tumor classification.
-Developed by: Mohammad suhale
+Developed by: Mohammad suhael
 RegisterNumber:  212224230164
 */
 
